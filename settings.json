@@ -5,7 +5,7 @@
   "editor.fontSize": 12,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.lineHeight": 20,
+  "editor.lineHeight": 21,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "all",
