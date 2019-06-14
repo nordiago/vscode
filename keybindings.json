@@ -26,5 +26,19 @@
   {
     "key": "f6",
     "command": "editor.action.sortLinesDescending"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "-workbench.view.debug"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+alt+down",
+    "command": "-editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]
