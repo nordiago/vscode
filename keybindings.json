@@ -40,5 +40,41 @@
     "key": "shift+alt+down",
     "command": "-editor.action.copyLinesDownAction",
     "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "cmd+k cmd+l",
+    "command": "editor.action.transformToLowercase"
+  },
+  {
+    "key": "cmd+k cmd+u",
+    "command": "editor.action.transformToUppercase"
+  },
+  {
+    "key": "cmd+k cmd+t",
+    "command": "-workbench.action.selectTheme"
+  },
+  {
+    "key": "cmd+k cmd+t",
+    "command": "editor.action.transformToTitlecase"
+  },
+  {
+    "key": "ctrl+cmd+down",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+down",
+    "command": "-editor.action.moveLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+cmd+up",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+up",
+    "command": "-editor.action.moveLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]
