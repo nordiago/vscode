@@ -1,6 +1,8 @@
 {
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.cursorBlinking": "smooth",
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 12,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.lineHeight": 20,
@@ -12,7 +14,6 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "telemetry.enableTelemetry": false,
-  "terminal.explorerKind": "external",
   "workbench.colorTheme": "Material Theme",
   "workbench.editor.highlightModifiedTabs": true
 }
