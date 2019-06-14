@@ -18,6 +18,7 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
+  "materialTheme.accent": "Bright Teal",
   "prettier.endOfLine": "lf",
   "prettier.jsxSingleQuote": true,
   "prettier.semi": true,
@@ -29,6 +30,28 @@
   "window.newWindowDimensions": "inherit",
   "window.restoreWindows": "all",
   "window.title": "${activeFolderShort}/${activeEditorShort}${separator}${rootName}",
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#64FFDA",
+    "breadcrumb.activeSelectionForeground": "#64FFDA",
+    "editorSuggestWidget.highlightForeground": "#64FFDA",
+    "editorWidget.border": "#64FFDA",
+    "editorWidget.resizeBorder": "#64FFDA",
+    "list.activeSelectionForeground": "#64FFDA",
+    "list.highlightForeground": "#64FFDA",
+    "list.inactiveSelectionForeground": "#64FFDA",
+    "menu.selectionForeground": "#64FFDA",
+    "menubar.selectionForeground": "#64FFDA",
+    "notificationLink.foreground": "#64FFDA",
+    "panelTitle.activeBorder": "#64FFDA",
+    "pickerGroup.foreground": "#64FFDA",
+    "progressBar.background": "#64FFDA",
+    "scrollbarSlider.activeBackground": "#64FFDA50",
+    "settings.headerForeground": "#64FFDA",
+    "settings.modifiedItemIndicator": "#64FFDA",
+    "tab.activeBorder": "#64FFDA",
+    "textLink.foreground": "#64FFDA"
+  },
   "workbench.colorTheme": "Material Theme",
-  "workbench.editor.highlightModifiedTabs": true
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.iconTheme": "material-icon-theme"
 }
