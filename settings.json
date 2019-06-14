@@ -1,0 +1,18 @@
+{
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.cursorBlinking": "smooth",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 20,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "on",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "telemetry.enableTelemetry": false,
+  "terminal.explorerKind": "external",
+  "workbench.colorTheme": "Material Theme",
+  "workbench.editor.highlightModifiedTabs": true
+}
