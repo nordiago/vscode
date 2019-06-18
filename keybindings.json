@@ -58,26 +58,6 @@
     "command": "editor.action.transformToTitlecase"
   },
   {
-    "key": "ctrl+cmd+down",
-    "command": "editor.action.moveLinesDownAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "alt+down",
-    "command": "-editor.action.moveLinesDownAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "ctrl+cmd+up",
-    "command": "editor.action.moveLinesUpAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
-    "key": "alt+up",
-    "command": "-editor.action.moveLinesUpAction",
-    "when": "editorTextFocus && !editorReadonly"
-  },
-  {
     "key": "shift+cmd+l",
     "command": "-editor.action.selectHighlights",
     "when": "editorFocus"
